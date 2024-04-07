@@ -30,7 +30,7 @@ const LaunchButton = ({ sx = {}, ...props }) => {
           {...props}
           onClick={(e) => loginWithRedirect()}
         >
-          Log In
+          <a href="" style={{textDecoration:"none"}}>Go to Dashboard</a>
           <KeyboardArrowRightIcon />
         </Button>
       )}

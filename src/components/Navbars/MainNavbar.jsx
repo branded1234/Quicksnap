@@ -93,6 +93,8 @@ const Navbar = () => {
                 <Typography variant="body2">About</Typography>
               </LinkButton>
 
+
+
               {/* <LinkButton spacing={0.5}>
                 <Typography variant="body2">Blog</Typography>
                 <CallMadeIcon sx={{ fontSize: 12 }} />
